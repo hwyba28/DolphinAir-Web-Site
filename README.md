@@ -9,5 +9,7 @@
 4. 예약에 대한 관리 가능
 5. 공지사항 및 Q&A에 대한 게시판 운영 및 댓글 관리
 <br>
-+ 추후 업데이트: Spring으로 전환 예정 및 admin 부분 추가 구현
+
 <img width="1254" alt="image" src="https://user-images.githubusercontent.com/108180200/178360584-7d744ce5-8a6b-41f1-b0ff-523b8cea9ffc.png">
+<br><br>
++ 추후 업데이트: Spring으로 전환 예정 및 admin 부분 추가 구현

@@ -23,8 +23,7 @@ Tech Stacks: Html / CSS / JS + XML / JQuery / Json + JSP / Servlet(JAVA) | Sprin
 사용 기술: Html / CSS / JS + XML / JQuery / Json + JSP / Servlet(JAVA) | Spring Framework 버전 (준비중..)<br>
 1. 디자인 시안을 가져와서 수정
 2. 기획 및 데이터 모델링 시행
-3. 데이터베이스 구축(Oracle/SQL) -> 개발<br>
-[기본 항공사 사이트를 참조하여, 기존 기능 구현 완료]<br>
+3. 데이터베이스 구축(Oracle/SQL) -> 개발 [기본 항공사 사이트를 참조하여, 기존 기능 구현 완료]<br>
 - 로그인/회원가입 구현
 - 회원정보 관리 가능
 - 항공편 검색 및 옵션 선택 후 예약

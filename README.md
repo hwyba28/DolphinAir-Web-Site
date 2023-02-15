@@ -10,10 +10,11 @@ Tech Stacks: Html / CSS / JS + XML / JQuery / Json + JSP / Servlet(JAVA) | Sprin
 - Management of Member's information
 - Functions for searching a flight, selecting an option, and making a reservation
 - Managing reservations
-- Management for Board [announcements, Q&A, and Comments]
+- Managing Boards [announcements, Q&A, and Comments]
 
 +needed to be updated: The version for admin (now only for client available)
-<br>
+<br><br>
+
 <img width="1254" alt="image" src="https://user-images.githubusercontent.com/108180200/178360584-7d744ce5-8a6b-41f1-b0ff-523b8cea9ffc.png">
 <br><br>
 

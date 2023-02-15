@@ -13,8 +13,8 @@ Tech Stacks: Html / CSS / JS + XML / JQuery / Json + JSP / Servlet(JAVA) | Sprin
 - Managing Boards [announcements, Q&A, and Comments]
 
  +) needed to be updated: The version for admin (now only for client available)
+<img width="1080" alt="image" src="https://user-images.githubusercontent.com/108180200/219010042-075c637e-e025-4f60-a16b-b3d1d4874561.png">
 
-<img width="1254" alt="image" src="https://user-images.githubusercontent.com/108180200/178360584-7d744ce5-8a6b-41f1-b0ff-523b8cea9ffc.png">
 <br><br>
 
 # DolphinAir(항공사 웹 사이트) - 개인 프로젝트
@@ -31,3 +31,4 @@ Tech Stacks: Html / CSS / JS + XML / JQuery / Json + JSP / Servlet(JAVA) | Sprin
 - 공지사항 및 Q&A에 대한 게시판 운영 및 댓글 관리 등
 
  +)  추후 업데이트: Spring으로 전환 예정 및 admin 부분 추가 구현
+<img width="1254" alt="image" src="https://user-images.githubusercontent.com/108180200/178360584-7d744ce5-8a6b-41f1-b0ff-523b8cea9ffc.png">

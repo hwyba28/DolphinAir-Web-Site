@@ -12,7 +12,7 @@ Tech Stacks: Html / CSS / JS + XML / JQuery / Json + JSP / Servlet(JAVA) | Sprin
 - Managing reservations
 - Managing Boards [announcements, Q&A, and Comments]
 
- +) needed to be updated: The version for admin (now only for client available)<br>
+ +) need to be updated: The version for admin (only client available for now)<br>
 <img width="1078" alt="image" src="https://user-images.githubusercontent.com/108180200/219010199-428ed544-c172-4f83-babc-1f88811a1fba.png">
 <br><br>
 
